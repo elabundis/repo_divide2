@@ -9,3 +9,5 @@ if num%5 == 0:
     print("Divisible entre 5")
 else:
     print("No es divisible entre 5")
+
+print('Goodbye')
